@@ -8,9 +8,7 @@ public class Sample {
 		// TODO Auto-generated method stub
 
 		RestAssured.baseURI = "https://rahulshettyacademy.com/";
-		
-		
-		
+
 	}
 
 }
